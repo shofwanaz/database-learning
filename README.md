@@ -29,9 +29,19 @@ A collection of SQL exercises, database experiments, and practical projects as I
 ## Current Progress
 - [x] Created first GitHub repository
 - [x] Created repository documentation
-- [ ] Practicing SQL queries
+- [x] Practicing SQL queries
 - [ ] Building database projects
 - [ ] Exploring API development
+
+## My Learning Journey
+I am currently learning and exploring:
+
+- SQL and Database Management
+- Git and GitHub
+- PHP Backend Development
+- API Development
+
+My goal is to develop strong database and backend engineering skills.
 ---
 
 *Currently learning and building practical projects.*
