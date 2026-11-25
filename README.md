@@ -26,6 +26,12 @@ A collection of SQL exercises, database experiments, and practical projects as I
 - Build practical database projects.
 - Explore backend and API development.
 
+## Current Progress
+- [x] Created first GitHub repository
+- [x] Created repository documentation
+- [ ] Practicing SQL queries
+- [ ] Building database projects
+- [ ] Exploring API development
 ---
 
 *Currently learning and building practical projects.*
