@@ -40,6 +40,7 @@ I am currently learning and exploring:
 - Git and GitHub
 - PHP Backend Development
 - API Development
+- Python
 
 My goal is to develop strong database and backend engineering skills.
 ---
